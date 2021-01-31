@@ -1,17 +1,12 @@
-// Code Written by Rishi Tiwari
-// Website:- https://tricksumo.com
-// Reference:- https://www.w3schools.com/php/php_mysql_insert.asp
-//
-//
 
 <?php
 
 
 
 $host = "localhost";                 // host = localhost because database hosted on the same server where PHP files are hosted
-$dbname = "id15860293_datadb";              // Database name
-$username = "id15860293_datauser";        // Database username
-$password = "OksO@F4tPuTFUZ-[";            // Database password
+$dbname = "epicxcom_id15860293_datadb";              // Database name
+$username = "epicxcom_leeta";        // Database username
+$password = "123Priyanga*";            // Database password
 
 
 // Establish connection to MySQL database
